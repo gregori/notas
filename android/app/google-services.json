@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "946564023780",
+    "project_id": "notas-e5dbc",
+    "storage_bucket": "notas-e5dbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946564023780:android:46ab7bd92df6f770b3f3f1",
+        "android_client_info": {
+          "package_name": "com.example.notas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAHZWGJvmiT58IkJLh08RCpzDGDY0uBgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
